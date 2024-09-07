@@ -7,4 +7,4 @@
 
 
 
-![Pedro Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Pedro Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit_icons=true&theme=transparent)
