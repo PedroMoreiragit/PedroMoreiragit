@@ -18,3 +18,8 @@
 <div><br></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreiragit&layout=compact)
+
+
+
+
+/*https://dev.to/envoy_/150-badges-for-github-pnk*/
