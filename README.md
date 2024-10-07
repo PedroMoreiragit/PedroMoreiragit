@@ -18,7 +18,7 @@
 
 <div><br></div>
 
-![PedroMoreiragit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dark)
+![PedroMoreiragit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dracula)
 
 
 
