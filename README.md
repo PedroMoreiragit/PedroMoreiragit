@@ -18,7 +18,7 @@
 
 <div><br></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMoreiragit&layout=compact)
+![PedroMoreiragit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dark)
 
 
 
