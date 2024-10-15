@@ -16,9 +16,6 @@
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-<div><br></div>
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dracula)
 
 
 
