@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é Pedro Moreira Tristão. Estudo programação há dois anos e sou apaixonado por tecnologia. Meu objetivo é iniciar minha carreira no mercado de trabalho, desenvolver minhas habilidades e, no futuro, expandir minha atuação para o mercado internacional. Estou sempre em busca de novos desafios e aprendizados para crescer como profissional e contribuir com soluções inovadoras.
+Olá! Meu nome é Pedro Moreira Tristão. Estudo programação há dois anos e sou apaixonado por tecnologia. Meu objetivo é iniciar minha carreira no mercado de trabalho, desenvolver minhas habilidades e, no futuro, expandir minha atuação para o mercado internacional. Estou sempre em busca de novos desafios e aprendizados para crescer como profissional e contribuir com soluções criativas e práticas.
 
 
 ## Tecnologias que uso no meu dia.
