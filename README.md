@@ -14,4 +14,4 @@
 <!--<img title="Vue" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> -->
 </div>
 
-<!--https://dev.to/envoy_/150-badges-for-github-pnk**--!>
+<!--https://devicon.dev/--!>
