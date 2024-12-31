@@ -18,7 +18,7 @@ Olá! Meu nome é Pedro Moreira Tristão. Estudo programação há dois anos e s
 <img title="Tailwind CSS" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img title="Tailwind CSS" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />       
 <img title="JavaScript" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<!--<img title="Vue" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> -->
+<img title="Vue" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> 
 <img title="Tailwind CSS" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
         
 </div>
