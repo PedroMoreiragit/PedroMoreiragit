@@ -5,8 +5,7 @@
 [![.](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/620363768550916106)
 [![.](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5518996941815&text&type=phone_number&app_absent=0)
 [![.](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-moreira-49ab6732b/)
-[![.](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://portifolio-pedro-moreira.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAad-7H6pPzszwDkLAgctZM-xDGJ7jmpvmm5CGY2qB8w0F9diYLvNOPHTjPF4LA_aem_Rg-e3cJRcSLMTIwNmgJeUA))
-
+[![.]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://portifolio-pedro-moreira.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAad-7H6pPzszwDkLAgctZM-xDGJ7jmpvmm5CGY2qB8w0F9diYLvNOPHTjPF4LA_aem_Rg-e3cJRcSLMTIwNmgJeUA)
 
 
 ## Technical Skillset.
