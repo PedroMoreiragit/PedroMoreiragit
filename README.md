@@ -2,7 +2,8 @@
 
 
 ## About me
-Hello! I’m <span style="color: #A020F0;">Pedro Moreira Tristão</span>, a passionate programmer with two years of dedicated study in technology. I aim to launch my career in the tech industry, sharpen my skills, and grow toward the international market. I embrace challenges and learning opportunities to deliver innovative, practical solutions.
+Hello! I’m <font color="#A020F0">Pedro Moreira Tristão</font>, a passionate programmer with two years of dedicated study in technology. I aim to launch my career in the tech industry, sharpen my skills, and grow toward the international market. I embrace challenges and learning opportunities to deliver innovative, practical solutions.
+
 
 
 ## Stack
