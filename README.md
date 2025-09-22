@@ -17,7 +17,7 @@ Hello! I’m ![Name](https://img.shields.io/badge/Pedro%20Moreira%20Tristão-A02
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dracula)
 
-<br><br> 
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A020F0&textBg=false&reversal=true&section=footer"/>
 
 <!--https://devicon.dev/--!>
