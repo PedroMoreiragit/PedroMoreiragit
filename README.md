@@ -2,8 +2,7 @@
 
 
 ## About me
-Hello! I’m <font color="#A020F0">Pedro Moreira Tristão</font>, a passionate programmer with two years of dedicated study in technology. I aim to launch my career in the tech industry, sharpen my skills, and grow toward the international market. I embrace challenges and learning opportunities to deliver innovative, practical solutions.
-
+Hello! I’m ![Name](https://img.shields.io/badge/Pedro%20Moreira%20Tristão-A020F0?style=flat-square&logo=none&logoColor=white), a passionate programmer with two years of dedicated study in technology. I aim to launch my career in the tech industry, sharpen my skills, and grow toward the international market. I embrace challenges and learning opportunities to deliver innovative, practical solutions.
 
 
 ## Stack
