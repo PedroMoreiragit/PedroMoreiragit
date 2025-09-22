@@ -17,6 +17,6 @@ Hello! I’m Pedro Moreira Tristão, a passionate programmer with two years of d
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dracula)
 
 <br><br> 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=A020F0"/>
+<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=150&color=A020F0](https://capsule-render.vercel.app/api?type=waving&height=150&color=A020F0&textBg=false&reversal=true&section=footer)"/>
 
 <!--https://devicon.dev/--!>
