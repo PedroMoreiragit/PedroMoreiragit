@@ -13,7 +13,8 @@ Hello! My name is Pedro Moreira Tristão. I have been dedicated to studying prog
 <img title="PHP" width="40px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img title="Laravel" width="30px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />   
 </div>
+<br><br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroMoreiragit&show_icons=true&theme=dracula)
 
 <!--https://devicon.dev/--!>
