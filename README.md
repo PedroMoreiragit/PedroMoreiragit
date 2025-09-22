@@ -2,8 +2,7 @@
 
 
 ## About me
-Hello! My name is Pedro Moreira Tristão. I have been dedicated to studying programming for two years and have a deep passion for technology. My objective is to kickstart my career in the tech industry, continually enhance my skills, and eventually expand my expertise to the international market. I am committed to embracing new challenges and learning opportunities to grow professionally and deliver innovative, practical solutions.
-
+Hello! I’m Pedro Moreira Tristão, a passionate programmer with two years of dedicated study in technology. I aim to launch my career in the tech industry, sharpen my skills, and grow toward the international market. I embrace challenges and learning opportunities to deliver innovative, practical solutions.
 
 ## Stack
 <div style="display: inline_block">
